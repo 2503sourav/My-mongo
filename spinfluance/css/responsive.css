@@ -1,0 +1,1361 @@
+@media screen and (max-width:1199px) {
+    .latest-block-slider{
+        margin: 0;
+    } 
+    .it-solution-block-slider-main {
+        margin: 0;
+    }
+} 
+
+@media screen and (max-width:1169px) {
+   
+    .logo-block{
+        padding: 27px 0 28px 0;
+    }
+    .nav-block ul{
+        gap: 48px;
+    }
+    .nav-block >ul >li{
+        padding: 38px 0;
+    }
+    .banner-text h1{
+        font-size: 47px;
+        line-height: 67px;
+    }
+    
+
+    .banner-text p{
+        padding-top: 14px;
+    }
+    .banner-text .dicover-btn{
+        margin-top: 23px;
+    } 
+
+    #core-main {
+        padding: 110px 0;
+    }
+    .experiebce-text h2{
+        font-size: 13px;
+        line-height: 15px;
+    }
+   
+    .it-campany-right-block{
+        padding-top: 45px;
+    }
+
+    .it-campany-right-block h2{
+        font-size: 38px;
+        line-height: 54px;
+    }
+
+    .it-business-title p{
+        padding-top: 19px;
+    }
+    .it-business-title {
+        padding-bottom: 65px;
+    }
+
+    .security{
+        left: 20px;
+        width: 268px;
+         height: 70px;
+    } 
+
+    .it-solution-left-block p{
+        font-size: 17px;
+       line-height: 33px;
+       padding-top: 18px;
+    }
+
+    .core-left-block{
+        padding: 45px 35px;
+    }
+    #it-solution-campany{
+        padding-bottom: 130px;
+    }
+    .it-business-title p{
+        padding-top: 22px;
+    }
+
+    .it-solution-block-main{
+        margin-top: 70px;
+    }
+    #blanke-img-main{
+        padding-top: 110px;
+    }
+    #our-product-main{
+        padding-top: 110px;
+    }
+
+    .our-product-titl h2{
+        font-size: 48px;
+        line-height: 50px;
+    }
+    .our-product-block-main{
+        padding-top: 56px;
+    }
+
+    .our-product-block-main{
+        padding-top: 50px;
+    }
+
+    .our-product-left-block h2{
+        font-size: 23px; 
+        line-height: 24px;
+    }
+
+    .our-product-left-block p{
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+   
+
+    .our-product-left-block{
+        width: calc(33.33% - 40px);
+    }
+    #satisfied-main{
+        margin-top: 115px;
+    }
+
+    .satisfied-title-block h2{
+        font-size: 35px;
+         line-height: 44px;
+         padding-top: 33px;
+    }
+
+    .satisfied-title-block p{
+        font-size: 22px;
+        line-height: 31px;
+        padding-top: 40px;
+    }
+
+    #latest-main{
+        padding-top: 85px;
+    }
+
+    .latest-title{
+        padding-bottom: 50px;
+    }
+
+    .latest-left-block> h3{ 
+        font-size: 18px; 
+         line-height: 28px;
+    }
+    .satisfied-title-block h4{
+        padding-top: 50px;
+    }
+    .satisfied-block-main{
+        padding: 20px 0;
+    }
+
+    .latest-block-main{
+        padding-top: 70px;
+    }
+   
+    #top-main{
+        padding-top: 60px;
+    }
+
+}
+@media screen and (max-width:1023px) {
+    .banner-text h1 {
+        font-size: 43px;
+        line-height: 62px;
+    }
+    .banner-text p{
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .banner-text .dicover-btn{
+        font-size: 12px;
+          line-height: 12px;
+    }
+
+    .banner-text .hot-line-btn{
+        font-size: 12px;
+          line-height: 12px;
+    }
+
+    #core-main {
+        padding: 85px 0;
+    }
+
+    .core-left-block h2{
+        font-size: 26px; 
+         line-height: 35px;
+    }
+
+    .core-left-block p{
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .it-campany-left-block{
+        width: calc(50% - 90px);
+    }
+
+    .experiebce-text{
+        padding: 15px 12px 20px 10px;
+    }
+    .experiebce-text h2 {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .it-campany-right-block {
+        padding-top: 40px;
+    }
+
+    .it-campany-right-block h4{
+        font-size: 15px;
+    }
+
+
+    .it-campany-right-block h2 {
+        font-size: 37px;
+        line-height: 48px;
+    }
+
+    .it-campany-right-block p{
+        font-size: 19px;
+        line-height: 29px;
+        padding-top: 26px;
+    }
+    .it-campany-right-block a{
+        padding: 10px 30px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    #it-solution-campany {
+        padding-bottom: 100px;
+    }
+
+    .it-business-title h2{
+        font-size: 44px;
+        line-height: 54px;
+    }
+
+    .it-business-title p {
+        padding-top: 18px;
+        font-size: 18px;
+        line-height: 31px;
+    }
+
+    .it-business-title {
+        padding-bottom: 50px;
+    }
+
+    .security {
+        left: 24px;
+        width: 250px;
+        height: 66px;
+    }
+
+
+    .security h2{
+        font-size: 27px;
+    }
+
+    .it-solution-left-block p{
+        font-size: 16px;
+        line-height: 31px;
+        padding-top: 16px;
+    }
+
+    #blanke-img-main {
+        padding-top: 80px;
+    }
+
+    #our-product-main {
+        padding-top: 60px;
+    }
+
+    .our-product-titl h2 {
+        font-size: 42px;
+        line-height: 44px;
+    }
+    
+
+    .our-product-left-block h2 {
+        font-size: 21px;
+        line-height: 20px;
+        padding-top: 25px;
+    }
+
+    .our-product-left-block {
+        width: calc(33.33% - 25px);
+    }
+
+    .our-product-left-block a{
+        margin-top: 16px;
+    }
+
+    #satisfied-main {
+        margin-top: 60px;
+    }
+
+    .satisfied-title-block h2 {
+        font-size: 34px;
+        line-height: 39px;
+        padding-top: 15px;
+    }
+
+    .satisfied-title-block p {
+        font-size: 20px;
+        line-height: 30px;
+        padding-top: 35px;
+    }
+
+    .satisfied-title-block h4 {
+        padding-top: 40px;
+    }
+
+    #latest-main {
+        padding-top: 70px;
+    }
+
+    .latest-left-block{
+        padding: 0 15px;
+    }
+
+    .latest-left-block> h3 {
+        font-size: 16px;
+        line-height: 26px;
+        padding-top: 15px;
+    }
+
+    .get-started-title h2{
+        font-size: 28px;
+          line-height: 38px;
+    }
+
+    .get-started-title p{
+        padding-top: 15px;
+        font-size: 16px;
+           line-height: 26px;
+    }
+
+    .get-started-title a{
+        margin-top: 20px;
+        font-size: 18px;
+        line-height: 38px;
+        padding: 1px 25px 4px 21px; 
+    }
+
+    #top-main {
+        padding-top: 45px;
+    }
+
+    .footer-logo {
+        width: 40%;
+    }
+
+    .footer-solution{
+        width: 60%;
+    } 
+}
+
+@media screen and (max-width:991px) {
+
+    .nav-block ul {
+        gap: 28px;
+    }
+    
+    .nav-block ul li a{
+        font-size: 16px;
+        line-height: 15px;
+    }
+
+    .login-block a{
+        font-size: 16px;
+        line-height: 16px;  
+    }
+
+    .banner-text h1 {
+        font-size: 41px;
+        line-height: 41px;
+    }
+
+    .banner-text .dicover-btn {
+        margin-top: 18px;
+        font-size: 10px;
+        line-height: 9px;
+        padding: 15px 17px;
+    }
+
+    .banner-text span{
+        margin-top: 10px;
+    }
+    .banner-text span{
+        font-size: 12px;
+    }
+
+    .banner-text .hot-line-btn{
+        font-size: 10px;
+        line-height: 9px;
+    }
+
+    .core-left-block{
+        width: calc(50% - 16px);
+    }
+
+    .core-block-main{
+        row-gap: 20px;
+    }
+
+    #core-main {
+        padding: 60px 0;
+    }
+
+    .experiebce-text {
+        padding: 12px 8px 10px 7px;
+    }
+
+    .experiebce-text h2 {
+        font-size: 11px;
+        line-height: 12px;
+    } 
+
+    .it-campany-right-block {
+        padding-top: 75px;
+    }
+    
+    .it-campany-right-block h2 {
+        font-size: 30px;
+        line-height: 39px;
+    }
+
+    .it-campany-right-block p {
+        font-size: 18px;
+        line-height: 25px;
+        padding-top: 20px;
+        max-width: 550px;
+    }
+
+    .it-campany-left-img-second img{
+        object-fit: cover;
+        width: 210px;
+        height: 220px;
+    }
+
+    .it-campany-left-block {
+        width: calc(50% - 50px);
+        margin-left: 50px;
+    }
+
+    #it-solution-campany {
+        padding-bottom: 100px;
+    } 
+
+    .it-business-title {
+        padding-bottom: 40px;
+    }
+
+    .it-business-title h2 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+
+    .it-business-title p {
+        padding-top: 17px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    
+    .security{
+        left: 80px;
+    }
+
+
+    .it-solution-left-block{
+        text-align: center;
+    }
+
+    .it-solution-left-block p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-top: 14px;
+    }
+
+    #blanke-img-main {
+        padding-top: 50px;
+    }
+
+    #blanke-img-main {
+        padding-top: 50px;
+    }
+
+    .our-product-titl h2 {
+        font-size: 37px;
+        line-height: 35px;
+    }
+
+    .our-product-left-block h2 {
+        font-size: 18px;
+        line-height: 17px;
+        padding-top: 18px;
+    }
+
+    .our-product-left-block p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .our-product-left-block a {
+        margin-top: 11px;
+    }
+
+ 
+
+    .satisfied-title-block h2 {
+        font-size: 32px;
+        line-height: 31px;
+        padding-top: 12px;
+    }
+
+    .satisfied-title-block p {
+        font-size: 17px;
+        line-height: 26px;
+        padding-top: 24px;
+    }
+
+    .satisfied-title-block h4 {
+        padding-top: 34px;
+    }
+
+   
+
+    #latest-main {
+        padding-top: 40px;
+    }
+
+    .latest-title h2{
+        font-size: 30px;
+        line-height: 28px;
+    }
+
+    .latest-left-block> h3 {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 14px;
+    }
+
+    .alexander-date{
+        padding-top: 10px;
+    }
+
+    .get-started-title h2 {
+        font-size: 24px;
+        line-height: 37px;
+        max-width: 470px;
+    }
+
+    .get-started-title p {
+        padding-top: 10px;
+        font-size: 15px;
+        line-height: 24px;
+        max-width: 460px;
+    }
+
+    .get-started-title a {
+        margin-top: 17px;
+        font-size: 15px;
+        line-height: 34px;
+        padding: 1px 22px 4px 19px;
+    }
+
+    #top-main {
+        padding-top: 25px;
+    }
+
+    .footer-social-icon ul{
+        padding-top: 55px;
+    }
+
+    .solution-left-block ul {
+        padding-top: 25px;
+    }
+
+    .campany-right-block ul {
+        padding-top: 25px;
+    } 
+
+    .satisfied-left-block {
+        width: calc(50% - 45px);
+    } 
+
+}
+
+@media screen and (max-width:839px) {
+    .banner-text h1 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .banner-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .core-left-block h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .it-campany-left-img-second img {
+        object-fit: cover;
+        width: 190px;
+        height: 190px;
+    }
+    .it-campany-right-block {
+        padding-top: 80px;
+    }
+    .it-campany-right-block h2 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+    .it-campany-right-block p {
+        font-size: 16px;
+        line-height: 23px;
+        padding-top: 18px;
+        max-width: 550px;
+    }
+    .it-business-title h2 {
+        font-size: 33px;
+        line-height: 39px;
+    }
+    .it-business-title p {
+        padding-top: 16px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .security {
+        left: 50px;
+    }
+    .it-solution-left-block p {
+        font-size: 15px;
+        line-height: 26px;
+        padding-top: 12px;
+    }
+    .our-product-left-block h2 {
+        font-size: 17px;
+        line-height: 15px;
+        padding-top: 15px;
+    }
+    #our-product-main {
+        padding-top: 55px;
+    }
+    .our-product-titl h2 {
+        font-size: 35px;
+        line-height: 33px;
+    }
+    .satisfied-title-block h2 {
+        font-size: 30px;
+        line-height: 28px;
+        padding-top: 12px;
+    }
+    .satisfied-title-block p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 22px;
+    }
+    .satisfied-title-block h4 {
+        padding-top: 10px;
+        line-height: 31px;
+    }
+    #latest-main {
+        padding-top: 35px;
+    }
+    .latest-title {
+        padding-bottom: 45px;
+    }
+
+    .get-started-title h2 {
+        font-size: 22px;
+        line-height: 32px;
+        max-width: 470px;
+    }
+    .get-started-title p {
+        padding-top: 10px;
+        font-size: 14px;
+        line-height: 19px;
+        max-width: 460px;
+    }
+    .get-started-title a {
+        margin-top: 15px;
+        font-size: 13px;
+        line-height: 30px;
+        padding: 1px 19px 4px 17px;
+    }
+
+    
+}
+
+
+    @media screen and (max-width:767px) {
+
+    .nav-block ul {
+        visibility: hidden;
+        opacity: 0;
+        transition: 0.5s;
+        position: absolute;
+        height: auto;
+        left: 0;
+        top: 100px;
+        right: 0;
+        background-color: #ddd;
+
+    }
+
+    #header-main.open .nav-block ul{  
+        visibility: visible;
+        opacity: 1;
+        transition: 0.5s;
+    }
+
+    .nav-block > ul {
+        display: block;
+    } 
+    .nav-block > ul > li .drop{
+        position: static;
+        width: 100%;
+    }
+
+    .nav-block > ul > li{
+        padding: 20px 15px;
+    }
+
+    .drop-icon{
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        color: #000;
+    }
+
+    .nav-block > ul > li .drop > li:hover .drop{
+        display: none;
+    }
+
+    .nav-block > ul > li .drop > li.open-icon .drop{
+        display: block;
+    }
+    .experiebce-text {
+        padding: 16px 15px 13px 11px;
+    }
+    .experiebce-text h2 {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .it-campany-left-img-second img {
+        object-fit: cover;
+        width: 250px;
+        height: 250px; 
+    }
+    .it-campany-left-block {
+        width: 100%;
+    }
+
+    .it-campany-left-img img {
+        width: 85%;
+    }
+
+    .it-campany-left-img-second {
+        position: absolute;
+        bottom: -50px;
+        right: 40px;
+    }
+
+    .it-campany-right-block {
+        width: 100%; 
+    }
+
+    .satisfied-left-block {
+        width: 100%;
+    }
+
+    #our-product-main {
+        padding-top: 50px;
+    }
+
+    #satisfied-main::after{
+        display: none;
+    }
+    .our-product-titl h2 {
+        font-size: 34px;
+        line-height: 27px;
+    }
+
+    .our-product-block-main {
+        padding-top: 43px;
+    }
+    .our-product-left-block {
+        width: 50%;
+
+    }
+
+    .our-product-block-main {
+        padding-top: 43px;
+        row-gap: 40px;
+    }
+
+    .satisfied-left-img img {
+        width: 100%;
+    } 
+
+    .satisfied-title-block {
+        width: 100%;
+        background-color: #1E47FF;
+        padding: 15px;
+    }
+    .satisfied-title-block h5{
+        padding-bottom: 30px;
+    }
+
+    .satisfied-title-block h2{
+        font-size: 29px;
+    }
+
+    .satisfied-title-block p {
+        font-size: 16px;
+        line-height: 22px;
+        padding-top: 16px;
+    }
+    .footer-logo {
+        width: 50%;
+    }
+
+    .solution-campany-block-main{
+        margin-top: 20px;
+    }
+
+    
+    .security {
+        left: 24px;
+        width: 200px;
+        height: 50px;
+    }
+        
+    .security {
+        left: 36px;
+        width: 200px;
+        height: 50px;
+    } 
+
+    .get-strted-banner-img img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .it-solution-left-block p {
+    font-size: 15px;
+    line-height: 26px;
+    padding-top: 13px;
+    } 
+    .footer-social-icon ul {
+        padding-top: 45px;
+    }
+} 
+
+@media screen and (max-width:639px) {
+    .logo-block {
+        padding: 15px 0 20px 0;
+    }
+    .banner-text h1 {
+        font-size: 31px;
+        line-height: 35px;
+        max-width: 380px;
+        margin: 0 auto;
+    }
+
+    .nav-block ul{
+        top: 80px;
+    }
+    .banner-text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .banner-text .dicover-btn {
+        margin-top: 15px;
+        font-size: 9px;
+        line-height: 8px;
+        padding: 12px 11px;
+    }
+    .banner-text .hot-line-btn {
+        font-size: 9px;
+        line-height: 8px;
+    }
+    #core-main {
+        padding: 45px 0;
+    }
+
+    .core-left-block {
+        padding: 35px 26px;
+    }
+
+    .core-left-block h2 {
+        font-size: 24px;
+        line-height: 33px;
+        padding-top: 10px;
+    }
+
+    .core-left-block p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .it-campany-right-block p{
+        font-size: 17px;
+    }
+
+    .bliank-img img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+
+    #it-solution-campany {
+        padding-bottom: 50px;
+    }
+
+    .it-business-title p {
+        padding-top: 12px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .it-business-title {
+        padding-bottom: 25px;
+    }
+
+    .security {
+        left: 150px;
+        width: 220px;
+        height: 50px;
+        margin-top: -25px;
+    }
+
+    .security h2 {
+        font-size: 20px;
+    }
+    
+    .it-solution-left-block p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-top: 12px;
+    }
+    #blanke-img-main {
+        padding-top: 45px;
+    }
+
+    #our-product-main {
+        padding-top: 45px;
+    }
+    .our-product-titl h2 {
+        font-size: 31px;
+        line-height: 27px;
+    }
+
+    .get-strted-banner-img img {
+        width: 100%;
+        height: 220px;
+        object-fit: cover;
+    }
+
+    .get-started-title h2{
+        line-height: 34px;
+    }
+
+    .get-started-title a{
+        margin-top: 20px;
+    }
+
+    #satisfied-main {
+        margin-top: 50px;
+    }
+    .latest-title {
+        padding-bottom: 35px;
+    }
+    .latest-left-block> h3 {
+        font-size: 14px;
+        line-height: 20px;
+        padding-top: 12px;
+    }
+   
+    .get-started-title h2 {
+        font-size: 22px;
+        line-height: 26px;
+        max-width: 470px;
+    }
+
+    .get-started-title p {
+        padding-top: 10px;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .get-started-title a {
+        margin-top: 8px;
+        font-size: 11px;
+        line-height: 26px;
+        padding: 1px 15px 4px 15px;
+    }
+
+    .solution-left-block ul {
+        padding-top: 22px;
+    }
+
+    .campany-right-block ul {
+        padding-top: 22px;
+    }
+
+    #top-main {
+        padding-top: 20px;
+    }
+
+    /* .banner-text-main {
+        position: inherit;
+        transform: inherit;
+        padding: 45px 0;
+    }
+
+    .banner-img {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    } */
+
+
+    
+}
+@media screen and (max-width:575px) {
+    .banner-text h1 {
+        font-size: 24px;
+        line-height: 32px;
+        max-width: 377px;
+        margin: 0 auto;
+    }
+
+    .banner-text p {
+        font-size: 12px;
+        line-height: 18px;
+        padding-top: 10px;
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .banner-text .dicover-btn {
+        margin-top: 13px;
+        font-size: 8px;
+        line-height: 7px;
+        padding: 10px 10px;
+    }
+
+    .banner-text .hot-line-btn {
+        font-size: 8px;
+        line-height: 7px;
+        margin-left: 5px;
+    }
+
+    .banner-text span{
+        margin-top: 4px;
+        margin-left: 15px;
+    }
+
+    .core-left-block{
+        width: 100%;
+    }
+
+    .experiebce-text {
+        padding: 12px 9px 10px 9px;
+    }
+
+    .experiebce-text h2 {
+        font-size: 11px;
+        line-height: 14px;
+    }
+
+    .it-campany-left-block {
+        width: 100%;
+        margin-left: 50px;
+    }
+
+    .it-campany-left-img-second img {
+        object-fit: cover;
+        width: 200px;
+        height: 200px;
+    }
+    
+    .it-campany-left-img-second {
+        position: absolute;
+        bottom: -50px;
+        right: 20px;
+    }
+
+    .security {
+        left: 130px;
+        width: 200px;
+        height: 50px;
+        margin-top: -25px;
+    }
+    .it-campany-right-block h2 {
+        font-size: 27px;
+        line-height: 36px;
+    }
+
+    .it-campany-right-block p {
+        font-size: 16px;
+        line-height: 23px;
+        padding-top: 17px;
+    }
+
+    .it-campany-right-block a {
+        padding: 9px 22px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    .it-business-title h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #it-solution-campany {
+        padding-bottom: 40px;
+    }
+    .it-business-title p {
+        padding-top: 12px;
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .it-business-title {
+        padding-bottom: 20px;
+    }
+
+    .it-solution-left-block p {
+        font-size: 13px;
+        line-height: 23px;
+        padding-top: 10px;
+    }
+
+    .our-product-titl h2 {
+        font-size: 25px;
+        line-height: 22px;
+    }
+    
+    .our-product-left-block {
+        width: 100%;
+        padding: 15px;
+        border: 1px solid #1E47FF5E;
+
+    }
+
+    .satisfied-title-block h2 {
+        font-size: 25px;
+        line-height: 28px;
+        padding-top: 11px;
+    }
+
+    .get-started-title h2 {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: 470px;
+    }
+
+    .get-started-title p {
+        padding-top: 10px;
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    .satisfied-title-block p {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 20px;
+    }
+
+    .satisfied-title-block h4 {
+        padding-top: 25px;
+    }
+
+    .latest-title h2 {
+        font-size: 26px;
+        line-height: 23px;
+    }
+
+    .nav-block ul{
+        top: 81px;
+    }
+}
+
+@media screen and (max-width:419px) {
+
+    .banner-text h1 {
+        font-size: 22px;
+        line-height: 28px;
+        max-width: 377px;
+        margin: 0 auto;
+    }
+
+    .banner-text p {
+        font-size: 11px;
+        line-height: 16px;
+        padding-top: 9px;
+        max-width: 350px;
+        margin: 0 auto;
+    }
+    .banner-text .hot-line-btn{
+        margin-left: 0;
+    }
+    #core-main {
+        padding: 30px 0;
+    }
+    .core-left-block {
+        padding: 12px 15px;
+    }
+    .core-left-block h2 {
+        font-size: 19px;
+        line-height: 18px;
+        padding-top: 10px;
+    }
+
+    .experiebce-text h2 {
+        font-size: 9px;
+        line-height: 11px;
+    }
+    .it-campany-left-img-second img {
+        object-fit: cover;
+        width: 150px;
+        height: 150px;
+    }
+
+    .it-campany-left-block {
+        width: 100%;
+        margin-left: 40px;
+    }
+    .it-campany-right-block {
+        padding-top: 60px;
+    }
+
+    .it-campany-right-block h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .it-campany-right-block p {
+        font-size: 15px;
+        line-height: 21px;
+        padding-top: 13px;
+    }
+
+    .it-business-title h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .it-business-title p {
+        padding-top: 10px;
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .security{
+        left: 35px;
+    }
+
+    #blanke-img-main {
+        padding-top: 30px;
+    }
+
+    #our-product-main {
+        padding-top: 35px;
+    }
+
+    .our-product-titl h2 {
+        font-size: 19px;
+        line-height: 19px;
+    }
+
+    .get-started-title p {
+        padding-top: 10px;
+        font-size: 10px;
+        line-height: 19px;
+    }
+
+    .our-product-block-main {
+        padding-top: 35px;
+        row-gap: 35px;
+    }
+    .satisfied-title-block h2 {
+        font-size: 21px;
+        line-height: 18px;
+        padding-top: 11px;
+    }
+    .satisfied-title-block h2 {
+        font-size: 21px;
+        line-height: 18px;
+        padding-top: 11px;
+    }
+    .satisfied-title-block h4 {
+        padding-top: 20px;
+    }
+    #latest-main {
+        padding-top: 20px;
+    }
+    .latest-title {
+        padding-bottom: 15px;
+    }
+    .footer-logo {
+        width: 100%;
+    }
+    .solution-left-block {
+        width: 100%;
+        padding-top: 20px;
+
+    }
+    .campany-right-block {
+        width: 100%;
+        padding-top: 20px;
+    }
+    .banner-text span {
+        margin-top: 4px;
+        margin-left: 10px;
+    }
+    .banner-text span {
+        font-size: 11px;
+    }
+
+    /* .banner-img img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover; */
+}
+.banner-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+    .banner-text-main {
+        position: relative;
+        width: 100%;
+        top: 0;
+        left: 0;
+        transform: inherit;
+        padding: 50px 0;
+    }
+    .banner-img img {
+        width: 100%;
+        height: 100%;
+        display: block;
+        object-fit: cover;
+        object-position: center;
+    }
+
+}
+
